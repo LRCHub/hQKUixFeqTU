@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "金木犀の夜",
+  "base_artist": "Kinokoteikoku",
+  "createdAt": "2025-12-15T15:34:34.442903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "金木犀の夜",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/01_金木犀の夜_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "金木犀の夜",
+      "artist": "Kinoko Teikoku",
+      "has_synced": true,
+      "path": "select/02_金木犀の夜_Kinoko_Teikoku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "金木犀の夜",
+      "artist": "Kinokoteikoku",
+      "has_synced": true,
+      "path": "select/03_金木犀の夜_Kinokoteikoku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "金木犀の夜",
+      "artist": "Kinoko Teikoku",
+      "has_synced": true,
+      "path": "select/04_金木犀の夜_Kinoko_Teikoku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金木犀の夜",
+      "artist": "きのこ帝国",
+      "has_synced": false,
+      "path": "select/pl_01_金木犀の夜_きのこ帝国.txt"
+    }
+  ]
+}
